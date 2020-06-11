@@ -21,4 +21,3 @@ def all_phrases
   link
 end
 
-all_phrases
